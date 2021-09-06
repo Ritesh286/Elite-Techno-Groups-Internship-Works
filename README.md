@@ -3,7 +3,9 @@ This repository is having all the codes used for IMS project assigned by Elite T
 
 # Files present in repository 
 JSON based IMS.ipynb
+
 Product Record.json
+
 Sales.json
 
 # About the repository 
