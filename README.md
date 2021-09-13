@@ -2,11 +2,9 @@
 This repository is having all the codes used for IMS project assigned by Elite Techno Groups 
 
 # Folders present in repository 
-> IMS using JSON 
-      Files Present - JSON based IMS.ipynb , Product Record.json , Sales.json
+> IMS using JSON (Files Present - JSON based IMS.ipynb , Product Record.json , Sales.json)
 
-> Summer Olympics Data analysis 
-      Files Present - Summer.ipynb , summer.csv 
+> Summer Olympics Data analysis (Files Present - Summer.ipynb , summer.csv) 
 
 # About the repository 
 > IMS using JSON
