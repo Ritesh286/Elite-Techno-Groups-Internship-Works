@@ -1,5 +1,5 @@
-# Inventory-Management-systems
-This repository is having all the codes used for IMS project assigned by Elite Techno Groups 
+# Inventory-Management-systems and Summer-Olympics-Data-Analysis 
+This repository is having all the codes used for IMS and summer olympics data analysis projects assigned by Elite Techno Groups 
 
 # Folders present in repository 
 > IMS using JSON (Files Present - JSON based IMS.ipynb , Product Record.json , Sales.json)
